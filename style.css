@@ -1,0 +1,44 @@
+body {
+    background-color: ghostwhite;
+    font-family: cursive, serif;
+}
+
+header {
+    margin: 10px;
+    color: slategray;
+}
+
+header h3 {
+    
+    margin: 0px;
+    padding: 0px;
+    
+    text-align: right;
+    border-bottom: solid thick gray;
+}
+
+header nav {
+    margin: 10px;
+}
+
+header a {
+    padding: 0px 10px;
+    margin: 0px 10px;
+    border-left: solid dimgray;
+    border-right: solid dimgray;
+    color: darkslategray;
+}
+
+footer  {
+    text-align: right;
+}
+
+footer img {
+    width: 2%;
+    margin: 5px;
+}
+
+footer a {
+    margin: 5px;
+}
+
